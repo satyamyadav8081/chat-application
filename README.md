@@ -1,2 +1,2 @@
-# chaat-application
+# Chat-Application
 This chat application is dedicated to someone.
